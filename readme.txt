@@ -1,4 +1,4 @@
 
-I am Amar, new to gitI am learning
+I am Amar, I am learning
 
 
